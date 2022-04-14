@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AnilKumarVeeraRaghavan
-- 👀 I’m interested in Java, Spring and worked on enterprise softwares...
-- 🌱 I’m currently learning python and blockchain
-- 💞️ I’m looking to collaborate 
-- 📫
+Hi, I’m @AnilKumarVeeraRaghavan
+I’m interested in Java, Spring and worked on enterprise softwares.
+
 
 <!---
 AnilKumarVeeraRaghavan/AnilKumarVeeraRaghavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
